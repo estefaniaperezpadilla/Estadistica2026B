@@ -1,0 +1,2 @@
+About Dataset
+This dataset contains information about individuals' demographics and health-related factors, which can be used to predict healthcare costs billed by insurance. The features include age, gender, BMI (Body Mass Index), number of children/dependents, smoking status, region of residence, and individual medical expenses (charges). This data can be used for regression analysis to understand the key drivers of medical costs and potentially for actuarial analysis or personalized healthcare recommendations.
