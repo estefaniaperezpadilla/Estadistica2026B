@@ -43,4 +43,4 @@ charges: Medical insurance cost billed to the beneficiary (float)
 
 Potential Uses
 
-Build predictive models for medical costs Explore how smoking and BMI impact charges Teach students about regression and feature engineering Analyze healthcare affordability trends
+
